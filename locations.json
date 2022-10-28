@@ -3,8 +3,8 @@
     "features": [{
             "geometry": {
                 "type": "Point",
-                "coordinates": [152.9817704,
-                    -27.3159711
+                "coordinates": [172.6508451,
+                    -43.5343751
                 ]
             },
             "type": "Feature",
@@ -21,8 +21,8 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [152.9817704,
-                    -27.3159711
+                "coordinates": [174.7767545,
+                    -41.2940266
                 ]
             },
             "type": "Feature",
@@ -39,8 +39,8 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [152.9817704,
-                    -27.3159711
+                "coordinates": [174.7749852,
+                    -36.793312
                 ]
             },
             "type": "Feature",
