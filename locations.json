@@ -1,0 +1,58 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [152.9817704,
+                    -27.3159711
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "store",
+                "name": "Christchurch",
+                "address": "100 Fitzgerald Ave, Christchurch, 8011",
+                "phone": "03 366 7873",
+                "email": "christchurch@hifi.co.nz",
+                "hours": "Tue-Fri: 9:30am-5:30pm<br/>Saturday: 10am-3pm<br/>Sunday & Monday: Closed",
+                "storeid": "01"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [152.9817704,
+                    -27.3159711
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "store",
+                "name": "Wellington",
+                "address": "9 Marion Street, Te Aro, Wellington, 6011",
+                "phone": "04 385 8353",
+                "email": "info@hifi.co.nz",
+                "hours": "Mon-Fri: 9:30am-5:30pm<br/>Saturday: 10am-3pm<br/>Sunday: Closed",
+                "storeid": "02"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [152.9817704,
+                    -27.3159711
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "store",
+                "name": "Auckland",
+                "address": "415 Lake Road, Takapuna, Auckland, 0622",
+                "phone": "09 486 4494",
+                "email": "auckland@hifi.co.nz",
+                "hours": "Mon-Fri: 9am-5:30pm<br/>Saturday: 9am-3pm<br/>Sunday: Closed",
+                "storeid": "03"
+            }
+        }
+    ]
+}
